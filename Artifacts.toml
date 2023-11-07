@@ -1,0 +1,127 @@
+[[htscodecs]]
+arch = "aarch64"
+git-tree-sha1 = "36feca9a672cbbf9091415cfaf7bd5dba1752f6d"
+os = "macos"
+
+    [[htscodecs.download]]
+    sha256 = "f13462041183f92ae91f0ed5fd0ec2edf106a31b318cd932c684106b06829536"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.aarch64-apple-darwin.tar.gz"
+[[htscodecs]]
+arch = "aarch64"
+git-tree-sha1 = "f33226f0ed74e53ddcbd36d171ed35ed7ca79e89"
+libc = "glibc"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "5ab8b6759729ec8533a2e4e8e67985355fc99deb6d1f2e921ece5b09ed22aa3d"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.aarch64-linux-gnu.tar.gz"
+[[htscodecs]]
+arch = "aarch64"
+git-tree-sha1 = "f2457cbfd53222e9a5ffee3dbf58fff7f0b432eb"
+libc = "musl"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "b648a3fbe226813adc698044f052d5bc04b9f2cbd9ca76252135fae74970df8e"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.aarch64-linux-musl.tar.gz"
+[[htscodecs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f9f543e5b9d59535770f5b8bb85a031f7db5b92b"
+libc = "glibc"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "d802e91c1cf0148157f845a84dd60f029f572b2bda45216b423d5508d647e877"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.armv6l-linux-gnueabihf.tar.gz"
+[[htscodecs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0498297cbe3cb97ce0b175d979ca999d3a0a56a2"
+libc = "musl"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "639e8f0ff7575baf0564cf7b50c8b8ed86b228523e62dcbf9b612d794feca814"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.armv6l-linux-musleabihf.tar.gz"
+[[htscodecs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5fc47e3ce9927c99e7e0ce06d9ddaf7c9ecb67d6"
+libc = "glibc"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "7bd430e4226a6aecce74b1f23e114990d3ae1fc8e4f7680c6938495f5e6ec480"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.armv7l-linux-gnueabihf.tar.gz"
+[[htscodecs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f6daa125bad0057e5f2090ed1a05b24cb45e1c04"
+libc = "musl"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "af133e42b91604467f3484312e0b76b85ee1b5e3d0fb646297a3e3d28ada015e"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.armv7l-linux-musleabihf.tar.gz"
+[[htscodecs]]
+arch = "i686"
+git-tree-sha1 = "605fa0a9ab8deed27266f675e47b509b6507ad78"
+libc = "glibc"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "8f480dd31bf6e344dea62ce5ca42783b6b57ba3d830407096011c5fd192508c3"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.i686-linux-gnu.tar.gz"
+[[htscodecs]]
+arch = "i686"
+git-tree-sha1 = "e0b29b3b67672ed2b89d177f1578d0b71826fafb"
+libc = "musl"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "4795e2b3c4fab0589c2cd49db69d8469b26fdcf2f5bdc5b905746e1d20dd03d0"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.i686-linux-musl.tar.gz"
+[[htscodecs]]
+arch = "powerpc64le"
+git-tree-sha1 = "e293325e8d46a4afe3c0cd5ccadc279c576cbee8"
+libc = "glibc"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "f96943076fefc289efbb09ec75f41eff3e007755a2605b7cd43ed4a38ae2c805"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.powerpc64le-linux-gnu.tar.gz"
+[[htscodecs]]
+arch = "x86_64"
+git-tree-sha1 = "2e1f64ab57ad0c39bdf7f3395650c355787c52f7"
+os = "macos"
+
+    [[htscodecs.download]]
+    sha256 = "542c0bafb8b7e70bc382e687c5f4a24f8e03773ec6a394f461323eefa352dc54"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.x86_64-apple-darwin.tar.gz"
+[[htscodecs]]
+arch = "x86_64"
+git-tree-sha1 = "b66217b9503b7b32b41d97b791b12be93a014c1a"
+libc = "glibc"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "6db3fd6e7cdc8c4df2ea2787674746694f2654fd41102db26fd996d549cc5ea1"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.x86_64-linux-gnu.tar.gz"
+[[htscodecs]]
+arch = "x86_64"
+git-tree-sha1 = "0184304f3c494fbda39b46517f84babc02406254"
+libc = "musl"
+os = "linux"
+
+    [[htscodecs.download]]
+    sha256 = "142151972ef71322b91a9a735a1b03572c3bea6beca4347a877f78d2946b79c7"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.x86_64-linux-musl.tar.gz"
+[[htscodecs]]
+arch = "x86_64"
+git-tree-sha1 = "5b2554d02f2682138b6d7024abfa2d77bac0fc57"
+os = "freebsd"
+
+    [[htscodecs.download]]
+    sha256 = "0841b3ff18c532e6bb0c646be42cb83866e109a89ef8963fd3250914b5b9f6b0"
+    url = "https://github.com/JuliaBinaryWrappers/htscodecs_jll.jl/releases/download/htscodecs-v1.5.2+0/htscodecs.v1.5.2.x86_64-unknown-freebsd.tar.gz"
